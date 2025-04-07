@@ -1,0 +1,77 @@
+Keşifsel Veri Analizi (EDA) Nedir?
+
+Keşifsel Veri Analizi, verinin temel özelliklerini anlamak, veri kümesinin yapısını keşfetmek ve modelleme için uygun veri manipülasyonları yapabilmek amacıyla yapılan bir analiz türüdür.
+
+EDA, veri setindeki ilişkileri ve gizli desenleri keşfetmek için görselleştirme ve istatistiksel özetler kullanır.
+
+EDA Süreci:
+
+Veri Toplama: Veri, farklı kaynaklardan toplanabilir (örneğin, anketler, sensör verileri, veritabanları, vb.).
+
+Veri Temizleme: EDA'nın ilk adımı, eksik değerler, tutarsız veriler ve gürültülü verilerle başa çıkmaktır. Bu aşama, veriyi analiz edilebilir duruma getirir.
+
+Eksik veri yönetimi
+
+Anormal değerlerin tespiti ve temizlenmesi
+
+Veri formatlarının düzeltilmesi
+
+Veri Görselleştirme: Verinin anlamlı bir şekilde görselleştirilmesi, ilişkiler ve dağılımlar hakkında bilgi verir.
+
+Histogramlar
+
+Scatter plot'lar (dağılım grafikleri)
+
+Box plot'lar (kutu grafikleri)
+
+Heatmap'ler (ısı haritaları)
+
+İstatistiksel Özetler: Verinin merkezi eğilimi (ortalama, medyan) ve yayılımı (standart sapma, varyans) hakkında bilgi verir.
+
+Betimsel istatistikler (mean, median, mode, vb.)
+
+Korelasyon analizi
+
+Veri dağılımı ve uç değerlerin analizi
+
+Veri Görselleştirme Araçları:
+
+Matplotlib: Python'da veri görselleştirmesi için yaygın olarak kullanılan bir kütüphanedir.
+
+Seaborn: Matplotlib'in üzerine kurulmuş ve daha gelişmiş görselleştirmeler sunan bir kütüphanedir.
+
+Plotly: Etkileşimli ve dinamik görselleştirmeler için kullanılır.
+
+Pandas: Veri manipülasyonu ve analizinde kullanılır, aynı zamanda temel görselleştirme işlevselliği sunar.
+
+Önemli EDA Teknikleri:
+
+Veri Dağılımını Görselleştirme:
+
+Histogramlar: Verinin dağılımını görsel olarak temsil eder.
+
+Box Plot'lar: Verinin medyanını, çeyrekleri ve uç değerlerini gösterir.
+
+İlişki Analizi:
+
+Scatter plot'lar: İki değişken arasındaki ilişkiyi görselleştirir.
+
+Heatmap'ler: Korelasyon matrislerini görselleştirir.
+
+Veri Temizleme:
+
+Eksik değerler için imputation (yerine koyma) yapılabilir.
+
+Anomaliler ve uç değerler tespit edilebilir.
+
+Feature Engineering (Özellik Mühendisliği): Modelleme için anlamlı yeni özellikler oluşturulabilir.
+
+Keşifsel Veri Analizinin Amacı:
+
+Verinin temel özelliklerini anlamak
+
+Verideki ilişkileri keşfetmek
+
+Modelleme için önemli özellikleri tanımlamak
+
+Anlamlı görselleştirmelerle veriyi daha iyi anlayabilmek
