@@ -1,0 +1,50 @@
+Proje Yürütme ve Kalite Yönetimi:
+
+Proje Yürütme:
+
+Proje yürütme, projenin başlangıcında belirlenen hedeflere ulaşmak için gerekli olan tüm faaliyetleri kapsar.
+
+Proje yöneticisi, projenin zamanında ve bütçeye uygun olarak tamamlanmasını sağlamak için kaynakları, ekipleri ve süreçleri yönetir.
+
+Proje yürütme aşamasında, proje ekibi görevlerini yerine getirir ve ortaya çıkan sorunlara çözüm bulur.
+
+İyi bir proje yürütme süreci şunları içerir:
+
+Planlama: Proje süresince hangi adımların atılacağı ve ne zaman yapılacağı planlanmalıdır.
+
+İzleme: Proje ilerleyişinin sürekli izlenmesi gerekir.
+
+Koordinasyon: Proje ekibinin etkin bir şekilde çalışabilmesi için koordinasyon sağlanmalıdır.
+
+Kontrol: Proje hedeflerine ulaşılmasını sağlamak için kontrol süreçleri uygulanmalıdır.
+
+Kalite Yönetimi:
+
+Kalite yönetimi, projenin çıktılarının belirlenen kalite standartlarına uygun olmasını sağlamak için uygulanan sistematik bir yaklaşımdır.
+
+Kalite yönetimi genellikle üç temel aşamadan oluşur:
+
+Kalite Planlama: Proje başlangıcında kalite gereksinimlerinin ve ölçütlerinin belirlenmesi.
+
+Kalite Güvencesi: Kalite standartlarının sağlanıp sağlanmadığının kontrol edilmesi.
+
+Kalite Kontrolü: Projenin sonunda kalite seviyesinin doğrulanması.
+
+Kalite yönetimi sürecinde kullanılan teknikler şunlardır:
+
+İstatistiksel Kontrol: Ürünlerin kalite seviyesini ölçmek için istatistiksel yöntemler kullanılır.
+
+Denetimler: Proje süreci düzenli olarak denetlenir.
+
+Eğitimler: Proje ekibine kalite standartları hakkında sürekli eğitimler verilir.
+
+Proje Kalite Yönetimi Süreçleri:
+
+Kalite Planlaması: Projede hedeflenen kaliteyi belirler ve kalite kriterlerini tanımlar.
+
+Kalite Güvencesi: Kaliteyi sağlamak için belirli yöntemler uygulanır.
+
+Kalite Kontrolü: Proje çıktılarının kalite gereksinimlerini karşılayıp karşılamadığını kontrol etmek amacıyla yapılan testler ve incelemelerdir.
+
+Sürekli İyileştirme: Proje süresince kaliteyi artırmaya yönelik sürekli iyileştirme faaliyetleri yapılmalıdır.
+
