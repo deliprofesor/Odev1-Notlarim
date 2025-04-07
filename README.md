@@ -1,6 +1,6 @@
 # Odev1-Notlarim
 
-![image](https://github.com/user-attachments/assets/c2fa5eb8-9091-4fec-9462-845a7e08fbb4)
+![image](https://github.com/user-attachments/assets/79ea157a-38df-4069-89d1-876d02f7d6e7)
 
 
 Bu proje, çeşitli derslerden alınan notlar ve basit veri analizi kodları içeren bir repodur. Projede Python kullanılarak basit veri analizi, keşifsel veri analizi (EDA) ve görselleştirme örnekleri yer almaktadır.
